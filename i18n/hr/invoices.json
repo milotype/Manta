@@ -1,0 +1,23 @@
+{
+  "header": {
+    "name": "Svi računi"
+  },
+  "fields": {
+    "client": "Kupac",
+    "invoiceID": "Broj računa",
+    "createdDate": "Datum računa",
+    "dueDate": "Datum dospijeća",
+    "total": "Ukupni iznos"
+  },
+  "status": {
+    "pending": "Nepodmireno",
+    "paid": "Plaćeno",
+    "refunded": "Povrat novca",
+    "cancelled": "Stornirano"
+  },
+  "btns": {
+    "view": "Prikaži",
+    "edit": "Uredi",
+    "markAsPaid": "Označi kao plaćeno"
+  }
+}

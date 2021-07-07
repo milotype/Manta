@@ -1,0 +1,29 @@
+{
+  "actions": {
+    "skip": "Preskoči",
+    "next": "Dalje",
+    "start": "Počni pisati račun"
+  },
+  "slides": {
+    "welcome": {
+      "heading": "👋  Zdravo!",
+      "description": "Pogledaj kako stvoriti račune u samo tri jednostavna koraka"
+    },
+    "create": {
+      "heading": "1. korak – stvori",
+      "description": "Manta pruža fleksibilno sučelje za obrasce. Standardno se koriste osnovna polja, no po potrebi se mogu uključiti ili isključiti dodatna polja."
+    },
+    "preview": {
+      "heading": "2. korak – prilagodi",
+      "description": "Manta nudi profesionalne predloške koji se mogu prilagoditi vlastitim potrebama."
+    },
+    "save": {
+      "heading": "3. korak – spremi",
+      "description": "Kad je račun gotov, spremi ga u PDF formatu. Ispiši ga ili ga pošalji e-poštom tvojim kupcima."
+    },
+    "success": {
+      "heading": "Gotovo! ✋️",
+      "description": "Eto, tri jednostavna koraka za stvaranje profesionalnih računa pomoću programa Manta. Nemoj zaboraviti aktualizirati profil i logotip poduzeća prije nego što počneš koristiti račun."
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "noContact": "Nemaš nijedan kontakt",
+  "noInvoice": "Nemaš nijedan račun",
+  "invoice": {
+    "saved": "Račun je spremljen",
+    "updated": "Račun je aktualiziran",
+    "deleted": "Račun je izbrisan"
+  },
+  "contact": {
+    "saved": "Kontakt je spremljen",
+    "deleted": "Kontakt je izbrisan"
+  },
+  "settings": {
+    "saved": "Sve postavke su spremljene"
+  }
+}

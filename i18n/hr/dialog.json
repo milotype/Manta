@@ -1,0 +1,99 @@
+{
+  "appUpdate" : {
+    "available": {
+      "title": "Postoji nova verzija",
+      "message": "Želiš li preuzeti novu verziju u pozadini?"
+    },
+    "noUpdate": {
+      "title": "Nema nove verzije",
+      "message": "Koristiš najnoviju verziju programa"
+    },
+    "error": {
+      "title": "Dogodila se greška"
+    },
+    "downloaded": {
+      "title": "Nova verzija je preuzeta",
+      "message": "Želiš li sada zatvoriti program i instalirati novu verziju?",
+      "quitNow": "Zatvori program sada",
+      "later": "Kasnije"
+    }
+  },
+  "noAccess": {
+    "title": "Zabranjen pristup",
+    "message": "Odaberi jednu drugu mapu"
+  },
+  "errorBoundary": "Dogodila se greška",
+  "deleteInvoice": {
+    "title": "Izbrisati ovaj račun?",
+    "message": "Račun će se nepovratno izbrisati iz baze podataka"
+  },
+  "deleteContact": {
+    "title": "Izbrisati ovaj kontakt?",
+    "message": "Kontakt će se nepovratno izbrisati iz baze podataka"
+  },
+  "fileTypeErr": {
+    "title": "Odaberi jednu drugu datoteku"
+  },
+  "validation": {
+    "invoiceID": {
+      "title": "Neispravan broj računa",
+      "message": "Broj računa ne smije biti prazan"
+    },
+    "recipient": {
+      "empty": {
+        "title": "Neispravan kontakt",
+        "message": "Kontakt ne smije biti prazan"
+      },
+      "requiredFields": {
+        "title": "Obavezna polja",
+        "message": "Ispuni sva obavezna polja"
+      },
+      "email": {
+        "title": "Neispravna e-mail adresa",
+        "message": "Odaberi jednu drugu e-mail adresu"
+      }
+    },
+
+    "rows": {
+      "emptyDescription": {
+        "title": "Neispravan opis",
+        "message": "Opis ne smije biti prazan"
+      },
+      "priceZero": {
+        "title": "Neispravna cijena",
+        "message": "Cijena mora biti veća od nula"
+      },
+      "qtyZero": {
+        "title": "Neispravna količina",
+        "message": "Količina mora biti veća od nula"
+      }
+    },
+
+    "dueDate": {
+      "title": "Neispravan datum dospijeća",
+      "message": "Odaberi datum"
+    },
+
+    "currency": {
+      "fraction": {
+        "title": "Neispravna decimala",
+        "message": "Dacimala mora biti veća od ili jednaka nula"
+      }
+    },
+
+    "discount": {
+      "title": "Neispravan popust",
+      "message": "Količina popusta mora biti veća od nula"
+    },
+
+    "tax": {
+      "title": "Neispravan porez",
+      "message": "Količina poreza mora biti veća od nula"
+    },
+
+    "note": {
+      "title": "Neispravna napomena",
+      "message": "Napomena ne smije biti prazna"
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "header": "Postavke",
+  "tabs": {
+    "profile": "Profil",
+    "invoice": "Račun",
+    "general": "Opće"
+  },
+  "fields": {
+    "logo": {
+      "name": "Logotip",
+      "hint": "Mogući formati su PNG, JPG i SVG (preporučeno)"
+    },
+    "taxSettings": "Postavke poreza",
+    "template": "Predložak",
+    "dateFormat": "Format datuma",
+    "pdfExportDir": "Mapa za izvoz PDF-a",
+    "requiredFields": "Obavezna polja",
+    "sound": "Zvuk",
+    "mute": "Isključi zvuk",
+    "autoCheckUpdate": {
+      "name": "Automatski traži nove verzije",
+      "daily": "Svaki dan (preporučeno)",
+      "weekly": "Svaki tjedan"
+    },
+    "currency": {
+      "placement": "Mjesto valute",
+      "afterAmount": "Iza iznosa",
+      "beforeAmount": "Ispred iznosa",
+      "fraction": "Decimala",
+      "separator": "Znak razdvajanja",
+      "commaDot": "Zarez i točka",
+      "dotComma": "Točka i zarez",
+      "spaceDot": "Razmak i točka"
+    },
+    "openPDFReader": "Otvori PDF nakon izvoza",
+    "language": {
+      "name": "Jezik",
+      "ar": "Arapski",
+      "cs": "Češki",
+      "da": "Danski",
+      "de": "Njemački",
+      "el": "Grčki",
+      "en": "Engleski",
+      "esES": "Španjolski",
+      "fr": "Francuski",
+      "id": "Indonezijski",
+      "it": "Talijanski",
+      "ja": "Japanski",
+      "ko": "Korejski",
+      "lt": "Litvanski",
+      "nl": "Nizozemski",
+      "ptBR": "Portugalski, brazilski",
+      "ptPT": "Portugalski",
+      "ru": "Ruski",
+      "sk": "Slovački",
+      "th": "Tajlandski",
+      "tl": "Tagalog, filipinski",
+      "tr": "Turski",
+      "ur-PK": "Urdu (Pakistan)",
+      "vi": "Vijetnanski",
+      "zh-CN": "Kineski (pojednostavljeni)",
+      "zh-TW": "Kineski (tradicionalni)"
+    },
+    "other": "Ostalo"
+  }
+}

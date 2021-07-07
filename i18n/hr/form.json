@@ -1,0 +1,69 @@
+{
+  "header": {
+    "new": "Stvori novi račun",
+    "edit": "Uredi račun",
+    "btns": {
+      "clear": "Izbriši",
+      "update": "Aktualiziraj",
+      "saveAndPreview": "Spremi i pregledaj"
+    }
+  },
+  "settings": {
+    "name": "Postavke obrasca",
+    "hint": "Uključi polja koja će biti obavezna u obrascu."
+  },
+  "fields": {
+    "items": {
+      "name": "Proizvod/Usluga",
+      "description": "Opis",
+      "price": "Cijena",
+      "quantity": "Količina",
+      "add": "Dodaj novi proizvod/uslugu"
+    },
+    "recipient": {
+      "name": "Primalac",
+      "select": "Odaberi",
+      "add": "Stvori novog"
+    },
+    "discount": {
+      "name": "Popust",
+      "percentage": "Postotak",
+      "flat": "Iznos"
+    },
+    "dueDate": {
+      "name": "Datum dospijeća",
+      "placeHolder": "Odaberi prilagođeni datum",
+      "paymentTerms": {
+        "name": "Odaberi rok plaćanja",
+        "net7": {
+          "label": "7 dana",
+          "description": "Plaćanje u roku od sedam dana od datuma računa"
+        },
+        "net10": {
+          "label": "10 dana",
+          "description": "Plaćanje u roku od deset dana od datuma računa"
+        },
+        "net30": {
+          "label": "30 dana",
+          "description": "Plaćanje u roku od trideset dana od datuma računa"
+        },
+        "net60": {
+          "label": "60 dana",
+          "description": "Plaćanje u roku od šezdeset dana od datuma računa"
+        },
+        "net90": {
+          "label": "90 dana",
+          "description": "Plaćanje u roku od devedeset dana od datuma računa"
+        }
+      }
+    },
+    "tax": {
+      "name": "Porez",
+      "id": "OIB",
+      "method": "Način",
+      "reverse": "Prijenos porezne obveze"
+    },
+    "note": "Napomena",
+    "currency": "Valuta"
+  }
+}

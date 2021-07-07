@@ -1,0 +1,42 @@
+{
+  "sidebar": {
+    "template": "Predložak",
+    "alignment": {
+      "name": "Poravnanje",
+      "top": "Gore",
+      "middle": "Sredina",
+      "bottom": "Dolje"
+    },
+    "fontSize": "Veličina fonta",
+    "logoSize": "Veličina logotipa",
+    "toggle": {
+      "name": "Uključi/Isključi",
+      "logo": "Logotip",
+      "symbol": "Znak valute",
+      "recipient": "Primalac"
+    },
+    "accentColor": {
+      "name" : "Boja isticanja",
+      "useCustom": "Koristi standardnu boju"
+    },
+    "actions": {
+      "name": "Radnje",
+      "savePDF": "Izvezi PDF",
+      "saveConfigs": "Spremi konfiguracije"
+    }
+  },
+  "common": {
+    "billedTo": "Primalac",
+    "chooseInvoiceToPreview": "Odaberi račun za pregled",
+    "created": "Datum računa",
+    "due": "Datum dospijeća",
+    "invoice": "Račun",
+    "itemDescription": "Opis proizvoda/usluge",
+    "notice": "Napomena",
+    "order": "Broj",
+    "price": "Cijena",
+    "qty": "Količina",
+    "subtotal": "Iznos",
+    "total": "Ukupno za platiti"
+  }
+}
